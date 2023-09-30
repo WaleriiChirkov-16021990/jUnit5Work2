@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="826a0f14-f7cc-4bbf-b33a-3b50d2571fec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/chirkov/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/chirkov/second/hw/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/chirkov/second/hw/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/chirkov/second/hw/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/chirkov/second/hw/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/second/hw/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/second/hw/MotorcycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/second/hw/VehicleTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2W8Cab83QqgzqRsUJHQ6Eg0Xc3W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "G:/WCH/App/Document_prog/Java/restApiRestaurantBussines/unitTesting2/src/test/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "G:/WCH/App/Document_prog/Java/restApiRestaurantBussines/unitTesting2/src/main/java/ru/chirkov/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\WCH\App\Document_prog\Java\restApiRestaurantBussines\unitTesting2\src\test\java" />
+      <recent name="G:\WCH\App\Document_prog\Java\restApiRestaurantBussines\unitTesting2\src\main\java\ru\chirkov" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CarTest.testParkingCar">
+    <configuration name="CarTest.testParkingCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unitTesting2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="second.hw" />
+      <option name="MAIN_CLASS_NAME" value="second.hw.CarTest" />
+      <option name="METHOD_NAME" value="testParkingCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest.whichSpeedInDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unitTesting2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="second.hw" />
+      <option name="MAIN_CLASS_NAME" value="second.hw.CarTest" />
+      <option name="METHOD_NAME" value="whichSpeedInDrive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorcycleTest.howNumWheelsMotorcycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unitTesting2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="second.hw" />
+      <option name="MAIN_CLASS_NAME" value="second.hw.MotorcycleTest" />
+      <option name="METHOD_NAME" value="howNumWheelsMotorcycle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorcycleTest.testParkingMotorcycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unitTesting2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="second.hw" />
+      <option name="MAIN_CLASS_NAME" value="second.hw.MotorcycleTest" />
+      <option name="METHOD_NAME" value="testParkingMotorcycle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorcycleTest.whichSpeedInDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unitTesting2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="second.hw" />
+      <option name="MAIN_CLASS_NAME" value="second.hw.MotorcycleTest" />
+      <option name="METHOD_NAME" value="whichSpeedInDrive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CarTest.testParkingCar" />
+        <item itemvalue="JUnit.MotorcycleTest.testParkingMotorcycle" />
+        <item itemvalue="JUnit.MotorcycleTest.whichSpeedInDrive" />
+        <item itemvalue="JUnit.CarTest.whichSpeedInDrive" />
+        <item itemvalue="JUnit.MotorcycleTest.howNumWheelsMotorcycle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="826a0f14-f7cc-4bbf-b33a-3b50d2571fec" name="Changes" comment="" />
+      <created>1696104887240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696104887240</updated>
+      <workItem from="1696104888289" duration="2832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/chirkov/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
